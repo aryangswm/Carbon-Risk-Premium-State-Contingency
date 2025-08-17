@@ -1,0 +1,17 @@
+pandas
+numpy 
+wrds
+rapidfuzz
+tqdm 
+yfinance
+quandl 
+pandas_datareader
+pyarrow
+openpyxl
+linearmodels
+statsmodels
+scikit-learn
+scipy
+feature-engine
+matplotlib
+pypandoc
